@@ -1,0 +1,12 @@
+[
+  {"id": "q01", "query": "earphones for jogging", "relevant_ids": ["p01"]},
+  {"id": "q02", "query": "XB-200", "relevant_ids": ["p06"]},
+  {"id": "q03", "query": "bag for my laptop", "relevant_ids": ["p04", "p05"]},
+  {"id": "q04", "query": "headphones that block noise on a plane", "relevant_ids": ["p02"]},
+  {"id": "q05", "query": "something to make coffee", "relevant_ids": ["p17"]},
+  {"id": "q06", "query": "home office setup for back pain", "relevant_ids": ["p09", "p10"]},
+  {"id": "q07", "query": "fitness tracker for runners", "relevant_ids": ["p19"]},
+  {"id": "q08", "query": "charge my phone while travelling", "relevant_ids": ["p08", "p06"]},
+  {"id": "q09", "query": "equipment for video calls", "relevant_ids": ["p21"]},
+  {"id": "q10", "query": "music speaker for the beach", "relevant_ids": ["p20"]}
+]
